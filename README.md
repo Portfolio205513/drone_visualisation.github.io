@@ -6,6 +6,12 @@ This is project made during Data Visualization course. I have to make app that v
 
 ## instructions
 
+### github pages
+
+To see web app deployed on github pages go to https://portfolio205513.github.io/drone_visualization/
+
+### localy deployed
+
 All supplementary files should be in the same folder with html file.
 Data set file should named "data.csv".
 Map displayed on ground should named "groundmap_dark.png" and rotated 90 degrees clockwise.
