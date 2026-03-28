@@ -1,10 +1,10 @@
-#Drone Visualization App
+# Drone Visualization App
 
-##description
+## description
 
 This is project made during Data Visualization course. I have to make app that visually represents drones' data and allow to modify them
 
-##instructions
+## instructions
 
 All supplementary files should be in the same folder with html file.
 Data set file should named "data.csv".
