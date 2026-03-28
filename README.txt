@@ -1,3 +1,11 @@
+#Drone Visualization App
+
+##description
+
+This is project made during Data Visualization course. I have to make app that visually represents drones' data and allow to modify them
+
+##instructions
+
 All supplementary files should be in the same folder with html file.
 Data set file should named "data.csv".
 Map displayed on ground should named "groundmap_dark.png" and rotated 90 degrees clockwise.
